@@ -1,7 +1,7 @@
 # JogoDaMemoria
 Bem vindo (a/e) ao meu primeiro Jogo WEB! :)
 
-Este jogo da Memória funciona da seguinte forma:
+Este Jogo da Memória funciona da seguinte forma:
 - Tente achar todos os pares de cartas;
 - Caso as cartas sejam diferentes, elas voltam ao seu estado inicial (escondidads);
 - Caso as cartas sejam iguais, elas irão adquirir uma coloração cinza (sinalizando que elas já foram encontradas);
